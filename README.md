@@ -9,7 +9,7 @@
 - CSS
 - JAVASCRIPT
 
-#### Futuramente tenho a pretenção de estudar:
+#### Futuramente tenho o propósito de estudar:
 
 - REACT
 - TYPESCRIPT
