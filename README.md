@@ -68,5 +68,5 @@
 ![hitEnterGIF](https://user-images.githubusercontent.com/116320545/209041561-c9203ab5-94c7-4728-bfc2-fdba1421706c.gif).
 
    
-   ##### Obrigada pela visita! 
+   ##### Obrigada pela visita! ;)
  </div>
