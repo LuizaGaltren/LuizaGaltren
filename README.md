@@ -36,7 +36,7 @@
 <div align="center"> 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Matt-Luz)](https://github.com/LuizaGaltren)
-<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiza-santos9/)](https://www.linkedin.com/in/luiza-santos9/)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/luizasantosdev)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=luizasants10@gmail.com)](mailto:luizasants10@gmail.com)
 
 </div>
