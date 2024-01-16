@@ -1,22 +1,10 @@
-# Olá! Sou a Luiza Santos 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=607274&size=20&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Luiza+Santos+;Welcome+to+my+GitHub+space!)](https://git.io/typing-svg)
 
-- Estudante de Full stack web developer
+- 💻 Majoring in Computer Science
+- 🌱 Studying Web Development with a focus on Full-Stack
+- 🚀 Learning: React, MySQL
+- ✨ Self-taught enthusiast: I've learned guitar, drawing, and English independently. Currently mastering Dutch.
 
-
-## Estudando:
-
-- HTML
-- CSS
-- JAVASCRIPT
-
-#### Futuramente tenho o propósito de estudar:
-
-- REACT
-- TYPESCRIPT
-- NODEJS
-- GIT
-- SQL
-- ENTRE OUTRAS...
 
 
 <!-- ÍCONES LINGUAGENS -->
@@ -31,7 +19,7 @@
 
 <hr>
 
-### Onde me encontrar: 🧭🗺️
+### Where to find me: 🧭🗺️
 
 <div align="center"> 
 
@@ -68,5 +56,5 @@
 ![hitEnterGIF](https://user-images.githubusercontent.com/116320545/209041561-c9203ab5-94c7-4728-bfc2-fdba1421706c.gif).
 
    
-   ##### Obrigada pela visita! ;)
+   ##### Thanks for stopping by! ;)
  </div>
